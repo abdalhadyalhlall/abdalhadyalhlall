@@ -1,9 +1,9 @@
-<!-- 1. الصورة -->
 <div align="center">
   <img height="150" src="https://miro.medium.com/v2/resize:fit:3200/format:webp/1*vkfI4nFNheC5v0p7wzDtGg.gif" />
 </div>
 
-<!-- 2. الاسم المتحرك (تحت الصورة مباشرة) -->
+---
+
 <div align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=hey!+Im+Abd+Alhadi+Alhlal+%F0%9F%91%8B" alt="Typing SVG" />
@@ -12,7 +12,6 @@
 
 ---
 
-<!-- 3. التعريف عن نفسي -->
 <h3 align="center">👨‍💻 About Me</h3>
 
 <p align="center">
@@ -24,7 +23,6 @@ I'm a Software Engineering Student & Full-Stack Developer from Syria 🇸🇾<br
 
 ---
 
-<!-- 4. روابط التواصل الاجتماعي (قابلة للنقر) -->
 <div align="center">
   <a href="https://www.linkedin.com/in/abdalhadi-alhlal-4a22a6391" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="linkedin logo" />
@@ -41,7 +39,6 @@ I'm a Software Engineering Student & Full-Stack Developer from Syria 🇸🇾<br
 
 ---
 
-<!-- 5. المهارات -->
 <h3 align="left">🛠️ Language and tools</h3>
 
 <div align="left">
@@ -76,7 +73,6 @@ I'm a Software Engineering Student & Full-Stack Developer from Syria 🇸🇾<br
 
 ---
 
-<!-- 6. الإحصائيات (روابط مضمونة 100% تعمل على GitHub) -->
 <h3 align="left">🔥 My Stats :</h3>
 
 <div align="center">
