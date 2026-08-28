@@ -1,34 +1,44 @@
-<div data-importer="image" align="center">
-  <img data-importer="image" height="150" src="https://miro.medium.com/v2/resize:fit:3200/format:webp/1*vkfI4nFNheC5v0p7wzDtGg.gif"  />
+<div align="center">
+  <img height="150" src="https://miro.medium.com/v2/resize:fit:3200/format:webp/1*vkfI4nFNheC5v0p7wzDtGg.gif"  />
 </div>
 
-###
+---
 
-<div data-importer="socials" align="center">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="telegram logo"  />
-  <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="whatsapp logo"  />
+<div align="center">
+  <!-- ضع روابطك الحقيقية هنا -->
+  <a href="https://www.linkedin.com/in/your-linkedin-profile" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="linkedin logo"  />
+  </a>
+  
+  <a href="https://t.me/your-telegram" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="telegram logo"  />
+  </a>
+  
+  <a href="https://wa.me/your-whatsapp-number" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="whatsapp logo"  />
+  </a>
 </div>
 
-###
+---
 
-<h1 data-importer="text" align="center">hey! Im Abd Alhadi</h1>
+<h1 align="center">hey! I'm Abd Alhadi 👋</h1>
 
-###
+---
 
-<h3 data-importer="text" align="left">👩‍💻  About Me</h3>
+<h3 align="left">👨‍💻 About Me</h3>
 
-###
+<p align="left">
+I'm a Software Engineering Student & Full-Stack Developer from Syria 🇸🇾<br><br>
+- 🔭 I'm working as a Software Engineering Student & Full-Stack Developer<br>
+- 📚 I'm currently learning Advanced Flutter architecture and Laravel performance optimization<br>
+- ⚡ In my free time I build cross-platform healthcare and mobile solutions
+</p>
 
-<p data-importer="text" align="left">I'm ... from ....Syria<br><br>- 🔭  I’m working as a  Software Engineering Student & Full-Stack Developer<br>- 📚 I'm currently learning Advanced Flutter architecture and Laravel performance optimization<br>- ⚡ In my free time I build cross-platform healthcare and mobile solutions</p>
+---
 
-###
+<h3 align="left">🛠️ Language and tools</h3>
 
-<h3 data-importer="text" align="left">🛠 Language and tools</h3>
-
-###
-
-<div data-importer="techs" align="left">
+<div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" height="40" alt="firebase logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" alt="flutter logo"  />
@@ -58,15 +68,12 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
 </div>
 
-###
+---
 
-<h3 data-importer="text" align="left">🔥   My Stats :</h3>
+<h3 align="left">🔥 My Stats :</h3>
 
-###
-
-<div data-importer="stats" align="center">
+<div align="center">
   <img src="https://raw.githubusercontent.com/abdalhadyalhlall/abdalhadyalhlall/stats-output/stats.svg?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="250" alt="stats graph"  />
+  
   <img src="https://raw.githubusercontent.com/abdalhadyalhlall/abdalhadyalhlall/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
-
-###
